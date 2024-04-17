@@ -29,7 +29,7 @@ If this does not work, please open your terminal.
 
 <img width="330" alt="Screenshot 2024-04-16 at 22 32 36" src="https://github.com/alenanicole/CSU-Senior-Project-Realms-Of-Mastery/assets/76910235/367f180f-f3c2-4079-8ec3-622db64e162a">
 
-Run the following command to enable the app, replacing "path\to\app" with the path to the application
+Run the following command to enable the app, replacing "path\to\app" with the path to the application.
 
 ``` xattr -d com.apple.quarantine path\to\app```
 
