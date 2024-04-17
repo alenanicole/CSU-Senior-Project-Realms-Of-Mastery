@@ -4,6 +4,8 @@ Realms of Mastery will be an adventure-style game that is primarily intended for
 
 ## Compile/Deploy
 
+https://github.com/alenanicole/CSU-Senior-Project-Realms-Of-Mastery/blob/master/src/RealmsOfMastery.exe
+
 ## Usage
 
 ## Options
