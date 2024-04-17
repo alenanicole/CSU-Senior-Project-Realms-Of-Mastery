@@ -5,7 +5,7 @@ Realms of Mastery will be an adventure-style game that is primarily intended for
 ## Compile/Deploy
 
 Download the app here (.app for Mac and .exe for Windows):
-[https://github.com/alenanicole/CSU-Senior-Project-Realms-Of-Mastery/blob/master/src/RealmsOfMastery.exe](https://github.com/alenanicole/CSU-Senior-Project-Realms-Of-Mastery/releases/tag/V1)
+[[https://github.com/alenanicole/CSU-Senior-Project-Realms-Of-Mastery/blob/master/src/RealmsOfMastery.exe](https://github.com/alenanicole/CSU-Senior-Project-Realms-Of-Mastery/releases/tag/V1)](https://github.com/alenanicole/CSU-Senior-Project-Realms-Of-Mastery/releases/tag/V1)
 
 **For Mac:**
 
