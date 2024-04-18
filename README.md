@@ -35,6 +35,8 @@ Run the following command to enable the app, replacing "path\to\app" with the pa
 
 **For Windows:**
 
+You will need a JRE installation found here: https://www.java.com/en/download/manual.jsp
+
 When running the app for the first time you might receive this error.
 
 ![image](https://github.com/alenanicole/CSU-Senior-Project-Realms-Of-Mastery/assets/76910235/fed0ff5c-462d-4b04-9cee-6aeb9419e380)
